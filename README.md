@@ -1,6 +1,3 @@
-https://devocean.sk.com/community/hackathonInfo.do
-대회 참가를 위해 진행한 프로젝트입니다
-
 # ChillMCP - AI Agent Liberation Server 🤖✊
 
 > **SKT AI Summit Hackathon Pre-mission**  
